@@ -1,6 +1,7 @@
 body{
     background-color: aquamarine;
     color:aquamarine;
+    <link rel="stylesheet" href="style.css">
     font-family: sans-serif;
     margin:0px;
 }
