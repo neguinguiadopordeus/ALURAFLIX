@@ -9,7 +9,12 @@ padding: 10px;
 font-size: 32px;
 color: aquamarine;
 }
-
+section{background: yellow;
+padding-bottom: 80px;
+padding-top: 50px;
+display: flex;
+justify-content: center;
+}
 
 
 
